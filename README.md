@@ -1,4 +1,4 @@
 
-<img src="https://github.com/yehudav/yehudav/banner.jpg">
+![Alt text](img.jpg?raw=true)
 - 🌱 I’m currently learning full stack development
 
