@@ -3,7 +3,7 @@
 # about me
 
 ## Languages
-<img src="https://github.com/yehudav/yehudav/blob/main/python.svg"><img src="https://github.com/yehudav/yehudav/blob/main/java.svg"><img src="https://github.com/yehudav/yehudav/blob/main/c++.svg"><img src="https://github.com/yehudav/yehudav/blob/main/javascript.svg">
+<img src="https://github.com/yehudav/yehudav/blob/main/python.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/java.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/c++.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/javascript.svg">
 
 
 
