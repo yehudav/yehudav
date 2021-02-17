@@ -9,5 +9,13 @@
 
 ## currently learning
 
-full stack development at https://www.theodinproject.com/
+### full stack development:
+
+last frontend project - google homepage:
+
+
+last backend project - A simple Node website:
+
+https://warm-thicket-35652.herokuapp.com/index/
+
 
