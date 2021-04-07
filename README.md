@@ -3,9 +3,8 @@
 # about me
 
 ## Languages
+
 <img src="https://github.com/yehudav/yehudav/blob/main/python.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/java.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/c++.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/javascript.svg">
-
-
 
 ## currently learning
 
@@ -13,10 +12,8 @@
 
 last frontend project - digital clock:
 
-https://yehudav.github.io/learning-front-end/JavaScript/Digital%20Clock/
+<a href="https://yehudav.github.io/learning-front-end/JavaScript/Digital%20Clock/" target="_blank">digital clock</a>
 
 last backend project - A simple Node website:
 
-https://warm-thicket-35652.herokuapp.com/index/
-
-
+<a href="https://warm-thicket-35652.herokuapp.com/index/" target="_blank">simple Node website</a>
