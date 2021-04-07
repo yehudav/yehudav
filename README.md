@@ -11,9 +11,9 @@
 
 ### full stack development:
 
-last frontend project - google homepage:
+last frontend project - digital clock:
 
-https://yehudav.github.io/learning-front-end/HTML%20CSS/Google%20Homepage/
+https://yehudav.github.io/learning-front-end/JavaScript/Digital%20Clock/
 
 last backend project - A simple Node website:
 
