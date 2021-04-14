@@ -4,7 +4,7 @@
 
 ## Languages
 
-<img src="https://github.com/yehudav/yehudav/blob/main/python.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/java.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/c++.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/javascript.svg">
+<img src="https://github.com/yehudav/yehudav/blob/main/svg/python.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/svg/java.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/svg/c++.svg"> <img src="https://github.com/yehudav/yehudav/blob/main/svg/javascript.svg">
 
 ## currently learning
 
