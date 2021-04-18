@@ -12,7 +12,7 @@
 
 last frontend project - digital clock:
 
-<a href="https://yehudav.github.io/learning-front-end/JavaScript/Digital%20Clock/" target="_blank">digital clock</a>
+<a href="https://yehudav.github.io/full-stack/JavaScript/Digital%20Clock/" target="_blank">digital clock</a>
 
 last backend project - A simple Node website:
 
