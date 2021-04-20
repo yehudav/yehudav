@@ -10,9 +10,9 @@
 
 ### full stack development:
 
-last frontend project - digital clock:
+last frontend project - color flipper:
 
-<a href="https://yehudav.github.io/full-stack/JavaScript/Digital%20Clock/" target="_blank">digital clock</a>
+<a href="https://yehudav.github.io/full-stack/JavaScript/color%20flipper/" target="_blank">color flipper</a>
 
 last backend project - A simple Node website:
 
