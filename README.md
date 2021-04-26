@@ -10,7 +10,7 @@
 
 ### full stack development:
 
-last frontend project - color flipper:
+last frontend project - counter:
 
 <a href="https://yehudav.github.io/full-stack/JavaScript/counter/" target="_blank">counter</a>
 
