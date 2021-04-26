@@ -12,7 +12,7 @@
 
 last frontend project - color flipper:
 
-<a href="https://yehudav.github.io/full-stack/JavaScript/counter/" target="_blank">color flipper</a>
+<a href="https://yehudav.github.io/full-stack/JavaScript/counter/" target="_blank">counter</a>
 
 last backend project - A simple Node website:
 
