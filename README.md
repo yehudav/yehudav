@@ -12,7 +12,7 @@
 
 last frontend project - Random Dad Joke Generator using https://icanhazdadjoke.com/ API:
 
-<a href="https://yehudav.github.io/full-stack/JavaScript/Random%20Dad%20Joke%20Generator/" target="_blank">Random Dad Joke Generator</a>
+<a href="https://yehudav.github.io/full-stack/JavaScript/random%20dad%20joke%20generator/" target="_blank">Random Dad Joke Generator</a>
 
 last backend project - A simple Node website:
 
