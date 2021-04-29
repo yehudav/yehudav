@@ -10,9 +10,9 @@
 
 ### full stack development:
 
-last frontend project - counter:
+last frontend project - Random Dad Joke Generator using https://icanhazdadjoke.com/ API:
 
-<a href="https://yehudav.github.io/full-stack/JavaScript/counter/" target="_blank">counter</a>
+<a href="https://yehudav.github.io/full-stack/JavaScript/Random%20Dad%20Joke%20Generator/" target="_blank">Random Dad Joke Generator</a>
 
 last backend project - A simple Node website:
 
