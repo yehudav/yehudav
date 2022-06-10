@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+
+}
+#text-area-div{
+    width:100%;
+}
+
+#text-area{
+    width:50%;
+    height: 50%;
+    font-size: 200%;
+    text-align: justify;
+    padding: 2%;
+
+}

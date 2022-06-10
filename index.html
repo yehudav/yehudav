@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>מסיר ניקוד</title>
+</head>
+<body>
+    <h1>מסיר ניקוד</h1>
+    <div id="text-area-div">
+        <textarea id="text-area"></textarea>
+    </div>
+    <div id="chars-to-remove">
+        <input type="checkbox" id="nikud" name="nikud" value="nikud">
+        <label for="nikud">ניקוד</label><br>
+        <input type="checkbox" id="taamim" name="taamim" value="taamim">
+        <label for="taamim">טעמים</label><br>
+        <input type="checkbox" id="punctuation" name="punctuation" value="punctuation">
+        <label for="punctuation">סימני פיסוק</label><br>
+        <input type="checkbox" id="parentheses" name="parentheses" value="parentheses">
+        <label for="parentheses">סוגריים</label><br>
+        <input type="checkbox" id="extra-spaces" name="extra spaces" value="extra spaces">
+        <label for="extra spaces">רווחים מיותרים</label><br>
+        <input type="checkbox" id="ktiv-male" name="ktiv male" value="ktiv male">
+        <label for="ktiv male">כתיב מלא</label><br>
+    </div>
+    <div>
+        <button id="remove">הסר</button>
+        <button id="copy-to-clipboard"> העתק</button>
+    </div>
+    <script src="./renderer.js"></script>
+</body>
+</html>
